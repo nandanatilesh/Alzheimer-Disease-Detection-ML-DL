@@ -15,6 +15,7 @@ The experimental results show that the custom CNN achieved the highest classific
 
 Some important observations were:
 -> The custom CNN achieved the best overall performance.
+
 -> SVM provided performance comparable to the CNN while using a classical ML approach.
 -> VGG16 achieved strong performance through transfer learning.
 -> DenseNet121 showed moderate performance with indications of overfitting.
